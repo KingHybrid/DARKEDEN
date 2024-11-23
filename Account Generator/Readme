@@ -1,5 +1,7 @@
+# You will need :
+`Pip Install tkinter`
+`Pip Install mysql.connector`
+
+
 PREVIEW:
 https://github.com/KingHybrid/DARKEDEN/tree/main/Account%20Generator/Preview.png?raw=true
-
-# You will need :
-`Pip Install tkinter, mysql.connector`
